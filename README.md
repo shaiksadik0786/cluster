@@ -35,4 +35,4 @@ goto action (security )modify iam role
 --> to check the terraform version :: terraform --version(Terraform v1.0.8 on linux_amd64)
 Set up and initialize your Terraform workspace
 ---> yum install git -y
-https://github.com/ANJINAYULU/cluster.git
+https://github.com/shaiksadik0786/cluster.git
